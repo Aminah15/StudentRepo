@@ -6,7 +6,8 @@ void testMethod1()
   //Second commnad print(x)
 
 
-  //Last line print('Good bye')
+  //Edit made by Student-X
+  //Last line print('TA TA')
 }
 
 void testMethod2()
@@ -21,3 +22,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
